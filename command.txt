@@ -1,1 +1,1 @@
-ping google.com
+get http://www.google.com 
